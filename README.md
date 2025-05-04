@@ -1,4 +1,4 @@
-# Event Reservation and Management System
+# Event Reservation and Management System - not working to be continued and debuged 
 
 Not working so far problem with Mongo database in tests folder appears in future application performance tests
 A comprehensive event reservation and management system utilizing various databases for optimal storage and processing of different data types.
